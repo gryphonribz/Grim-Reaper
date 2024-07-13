@@ -17,7 +17,7 @@
 #### Installation
 - Clone the repository or download the source code.
 ```
-git clone https://github.com/gryphonribz/
+https://github.com/gryphonribz/Grim-Reaper.git
 ```
 - Navigate to the directory containing the source code.
 ```
