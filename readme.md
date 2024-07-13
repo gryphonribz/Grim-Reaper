@@ -21,7 +21,7 @@ https://github.com/gryphonribz/Grim-Reaper.git
 ```
 - Navigate to the directory containing the source code.
 ```
-'Grim Reaper'
+'Grim-Reaper'
 ```
 
 #### Compilation
