@@ -1,6 +1,6 @@
 
 # Gream Reaper Guessing Game
-
+[Screenshot-from-2024-07-13-20-48-48.png](https://postimg.cc/qtGLKB92)
 #### Welcome to the Grim Reaper Guessing Game! This is an interactive command-line game where you enter the forbidden realm and try to guess the secret number chosen by the Grim Reaper. The game provides a fun and visually appealing experience with ASCII art, colored text, and interactive prompts.
 
 ### Features 
